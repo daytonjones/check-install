@@ -1,9 +1,6 @@
 # check-install (`check_install`)
 <br>
-[![PyPI version](https://img.shields.io/pypi/v/check-install.svg?color=brightgreen)](https://pypi.org/project/check-install/)
-[![Python versions](https://img.shields.io/pypi/pyversions/check-install.svg)](https://pypi.org/project/check-install/)
-[![License](https://img.shields.io/pypi/l/check-install.svg)](LICENSE)
-[![Downloads](https://static.pepy.tech/badge/check-install)](https://pepy.tech/project/check-install)
+[![PyPI version](https://img.shields.io/pypi/v/check-install.svg?color=brightgreen)](https://pypi.org/project/check-install/)[![Python versions](https://img.shields.io/pypi/pyversions/check-install.svg)](https://pypi.org/project/check-install/)[![License](https://img.shields.io/pypi/l/check-install.svg)](LICENSE)[![Downloads](https://static.pepy.tech/badge/check-install)](https://pepy.tech/project/check-install)
 <br>
 Automatically detect and install missing Python modules at runtime or pre-execution using pip.
 
